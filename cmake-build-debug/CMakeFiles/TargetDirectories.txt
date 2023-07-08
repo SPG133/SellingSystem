@@ -1,0 +1,4 @@
+E:/S/CLionProjects/SellingSystem/cmake-build-debug/CMakeFiles/product.dir
+E:/S/CLionProjects/SellingSystem/cmake-build-debug/CMakeFiles/main.dir
+E:/S/CLionProjects/SellingSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/S/CLionProjects/SellingSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

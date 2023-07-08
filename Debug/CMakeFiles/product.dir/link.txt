@@ -1,0 +1,2 @@
+E:\Environment\mingw64\bin\ar.exe qc libproduct.a CMakeFiles/product.dir/MyClass/product.cpp.obj
+E:\Environment\mingw64\bin\ranlib.exe libproduct.a
